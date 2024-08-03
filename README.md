@@ -23,8 +23,10 @@ This is a collection of all the resources for the courses that me and my friends
 ### CS213+293 - Data Structures and Algorithms + Lab
 
 Venue: LA001
-Slot: 6 (Wednesday and Friday 11:05 - 12:30) (CS213)
-      L4 (Friday 2:00 - 5:00) (CS293)
+<br/>
+Slot : * 6 (Wednesday and Friday 11:05 - 12:30) (CS213)
+       * L4 (Friday 2:00 - 5:00) (CS293)
+
 
 ### CS215 - Data Analysis and Interpretation
 
