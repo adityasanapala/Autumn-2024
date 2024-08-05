@@ -33,6 +33,10 @@ This is a collection of all the resources for the courses that me and my friends
 - **Slot L4** (CS293)
   - **Day:** Friday
   - **Time:** 2:00 PM - 5:00 PM
+ 
+**Instructor:** Prof. Ashutosh Kumar Gupta
+
+**Website:** [CS213/293: Data Structure and Algorithms 2024](https://www.cse.iitb.ac.in/~akg/courses/2024-ds/)
 
 
 
@@ -42,6 +46,21 @@ This is a collection of all the resources for the courses that me and my friends
 ### CS228 - Logic for Computer Science
 
 ### CS230+231 - Digital Logic Design and Computer Architecture + Lab
+
+### EC101 - Economics
+
+**Venue:** LA001
+
+**Schedule:**
+
+- **Slot 9**
+  - **Days:** Monday, Thursday
+  - **Time:** 3:30 PM - 4:55 PM
+ 
+**Instructor:**
+  - Prof. Subrato Banerjee
+  - Prof. Neha Gupta
+
 
 ## Backup Link for the Content
 
