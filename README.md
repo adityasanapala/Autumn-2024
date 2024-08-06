@@ -45,6 +45,20 @@ This is a collection of all the resources for the courses that me and my friends
 
 ### CS228 - Logic for Computer Science
 
+**Venue:** LA002
+
+**Schedule:**
+
+- **Slot 4**
+  - **Days:** Monday, Tuesday, Thursday
+  - **Time:** 11:35 AM - 12:30 PM, 8:30 AM - 9:25 AM, 9:30 AM - 10:25 AM
+
+- **Tutorial**
+  - **Day:** Monday
+  - **Time:** 9:30 PM - 10:30 PM
+ 
+**Instructor:** Prof. Krishna Shankara Narayanan
+
 ### CS230+231 - Digital Logic Design and Computer Architecture + Lab
 
 ### EC101 - Economics
