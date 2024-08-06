@@ -56,10 +56,27 @@ This is a collection of all the resources for the courses that me and my friends
 - **Tutorial**
   - **Day:** Monday
   - **Time:** 9:30 PM - 10:30 PM
+  - **Venue:** CC101/CC103/CC105
  
 **Instructor:** Prof. Krishna Shankara Narayanan
 
 ### CS230+231 - Digital Logic Design and Computer Architecture + Lab
+
+**Venue:** LH102
+
+**Schedule:**
+
+- **Slot 2** (CS230)
+  - **Days:** Monday, Tuesday, Thursday
+  - **Time:** 9:30 AM - 10:25 AM, 10:35 AM - 11:30 AM, 11:35 AM - 12:30 PM
+
+- **Slot L2** (CS231)
+  - **Day:** Tuesday
+  - **Time:** 2:00 PM - 5:00 PM
+ 
+**Instructor:**
+  - Prof. Sayandeep Saha
+  - Prof. Bhaskaran Raman
 
 ### EC101 - Economics
 
