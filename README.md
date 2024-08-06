@@ -1,6 +1,6 @@
 # Autumn-2024
 
-This is a collection of all the resources for the courses that me and my friends studied in our first semester of the first year, i.e., the Autumn Semester of 2023.
+This is a collection of all the resources for the courses that me and my friends studied in our first semester of the second year, i.e., the Autumn Semester of 2024.
 
 ## Timetable
 
@@ -8,7 +8,7 @@ This is a collection of all the resources for the courses that me and my friends
 > Fill in your respective minor/elective in the minor slot.
 
 > [!NOTE]  
-> ENT minor is conducted in the evening (5:30 - 6:55).
+> ENT minor is conducted in the evening (7:00 PM - 8:25 PM).
 
 | Day/Time  | 8:30 - 9:25 | 9:30 - 10:25  | 10:35 - 11:30 | 11:35 - 12:30  | 9:30 - 10:55 | 11:05 - 12:30  | 2:00 - 5:00 | 2:00 - 3:25  | 3:30 - 4:55 |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
