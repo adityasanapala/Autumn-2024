@@ -43,6 +43,16 @@ This is a collection of all the resources for the courses that me and my friends
 
 ### CS215 - Data Analysis and Interpretation
 
+**Venue:** LA001
+
+**Schedule:**
+
+- **Slot 3**
+  - **Days:** Monday, Tuesday, Thursday
+  - **Time:** 10:35 AM - 11:30 AM, 11:35 AM - 12:30 PM, 8:30 AM - 9:25 AM
+ 
+**Instructor:** Prof. Sunita Sarawagi
+
 ### CS228 - Logic for Computer Science
 
 **Venue:** LA002
