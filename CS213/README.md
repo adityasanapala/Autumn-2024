@@ -1,1 +1,1 @@
-# CS213 - Data Structures and Analysis
+# CS213 - Data Structures and Algorithms
