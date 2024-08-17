@@ -44,8 +44,6 @@ This is a collection of all the resources for the courses that me and my friends
 **Website:** [CS213/293: Data Structure and Algorithms 2024](https://www.cse.iitb.ac.in/~akg/courses/2024-ds/)
 
 
-
-
 ### CS215 - Data Analysis and Interpretation
 
 **Venue:** LA001
