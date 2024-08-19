@@ -4,6 +4,11 @@
 
 ## Grading
 
+- **SAFE Quizzes:** 15% (every tutorial)
+- **Quizzes:** 15% (best 3 out of 4)
+- **Midsem:** 30%
+- **Endsem:** 40%
+
 ## Exam Schedule
 
 - **Quiz 1:** Friday, 16 August 2024
