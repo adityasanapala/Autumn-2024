@@ -4,8 +4,9 @@ This is a collection of all the resources for the courses that me and my friends
 
 ## Upcoming Events
 
-- **CS228 Quiz 1**: August 21
-- **CS293 Lab Quiz 1**: August 23
+- **CS293 Lab Quiz 1:** Friday, August 23
+- **CS213 Quiz 1:** Wednesday, August 28 8:30 AM - 9:25 AM
+- **CS405 Quiz 1:** Wednesday, August 28 9:30 AM - 10:55 AM
 
 ## Timetable
 
