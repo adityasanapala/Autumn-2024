@@ -38,4 +38,6 @@ int main() {
     string ans = reverse_word(s);
 
     cout << ans << endl;
+
+    return 0;
 }
