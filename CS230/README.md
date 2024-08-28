@@ -12,7 +12,7 @@
 ## Exam Schedule
 
 - **Quiz 1:** Friday, 16 August 2024
-- **Quiz 2:**
+- **Quiz 2:** Thursday, 12 September 2024
 - **Quiz 3:**
 - **Quiz 4:**
 
