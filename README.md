@@ -4,7 +4,6 @@ This is a collection of all the resources for the courses that me and my friends
 
 ## Upcoming Events
 
-- **EC101 Quiz 1:** Thursday, August 29 3:30 PM - 4:10 PM
 - **CS230 Quiz 2:** Thursday, September 12
 
 ## Timetable
