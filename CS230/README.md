@@ -13,6 +13,7 @@
 
 - **Quiz 1:** Friday, 16 August 2024
 - **Quiz 2:** Thursday, 12 September 2024
+- **Midsem:** Midsem Week - Tuesday, 17 September 2024
 - **Quiz 3:**
 - **Quiz 4:**
 
