@@ -4,8 +4,6 @@ This is a collection of all the resources for the courses that me and my friends
 
 ## Upcoming Events
 
-- **CS230 Quiz 2:** Thursday, September 12
-
 ### Mid Semester Exams
 
 - **CS230:** Tuesday, September 17 1:30 PM - 3:30 PM
