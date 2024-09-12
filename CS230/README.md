@@ -18,3 +18,6 @@
 - **Quiz 4:**
 
 ## Course Website (if any)
+
+- [Digital Logic Design](https://sites.google.com/view/sayandeepsaha/digital-logic-and-computer-architecture-theory-lab)
+- [Computer Architecture](https://robin.bodhi.cse.iitb.ac.in/courseware/course/59/content/multimedia/coursecontent) (login with ldap)
