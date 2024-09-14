@@ -12,4 +12,8 @@
 
 ## Exam Schedule
 
+- **Weekly Moodle Quiz:** Every Thursday
+- **Midsem:** Midsem Week - Wednesday, 18 September 2023
+- **Endsem:** Endsem Week, Date yet to be announced.
+
 ## Course Website (if any)
