@@ -2,6 +2,24 @@
 
 ## Logistics
 
+### Instructor
+
+- **Prof. Sayandeep Saha**
+- **Prof. Bhaskaran Raman**
+
+### Teaching Assistants
+
+- **Mrityunjay Shukla**
+- **Samiksha Verma**
+- **Yash Jonjale**
+- **Hari Rohit Bhavsar**
+
+### Venue
+
+- **LH102** (Lectures)
+- **CC101/CC103/CC105** (Tutorials)
+- **SL1/SL2/SL3** (Labs)
+
 ## Grading
 
 - **SAFE Quizzes:** 15% (every tutorial)
