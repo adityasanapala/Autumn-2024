@@ -6,7 +6,6 @@ This is a collection of all the resources for the courses that me and my friends
 
 ### Mid Semester Exams
 
-- **CS230:** Tuesday, September 17 1:30 PM - 3:30 PM
 - **CS215:** Wednesday, September 18 1:30 PM - 3:30 PM
 - **CS228:** Thursday, September 19 1:30 PM - 3:30 PM
 - **Minor:** Friday, September 20 4 PM - 6 PM
