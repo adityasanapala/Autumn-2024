@@ -11,7 +11,7 @@
 ## Exam Schedule
 
 - **Lab Exam 1:** Friday, 23 August 2024
-- **Lab Exam 2:** Midsem Week, Date yet to be decided.
+- **Lab Exam 2:** Midsem Week - Sunday, 15 September 2024
 - **Lab Exam 3:** Friday, 18 October 2024
 - **Lab Exam 4:** Friday, 8 November 2024
 - **Project description declared:** Sunday, 13 October 2024
