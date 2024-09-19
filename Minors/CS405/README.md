@@ -10,7 +10,7 @@
 ## Exam Schedule
 
 - **Quiz 1:** Wednesday, 28 August 2024
-- **Midsem:** Midsem Week, Date yet to be decided.
+- **Midsem:** Midsem Week - Friday, 20 September 2024
 - **Quiz 2:** Friday, 25 October 2024
 - **Endsem:** Endsem Week, Date yet to be decided.
 
