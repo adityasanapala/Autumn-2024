@@ -1,7 +1,5 @@
 # CS213 - Data Structures and Algorithms
 
-## Logistics
-
 ## Grading
 
 - **Attendance Quiz:** 5% (half marks for attempt and half marks for 3+ options correct)
