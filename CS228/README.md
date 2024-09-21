@@ -1,7 +1,5 @@
 # CS228 - Logic for Computer Science
 
-## Logistics
-
 ## Grading
 
 - **Quizzes:** 30%
