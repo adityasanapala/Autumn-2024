@@ -1,7 +1,5 @@
 # CS215 - Data Analysis and Interpretation
 
-## Logistics
-
 ## Grading
 
 - **In-Class Quizzes:** 15% (best n - 2 out of n quizzes)
