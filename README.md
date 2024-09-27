@@ -4,12 +4,7 @@ This is a collection of all the resources for the courses that me and my friends
 
 ## Upcoming Events
 
-### Mid Semester Exams
-
-- **Minor:** Friday, September 20 4 PM - 6 PM
-- **EC101:** Friday, September 20 6:30 PM - 9:30 PM
-- **CS213:** Saturday, September 21 1:30 PM - 3:30 PM
-- **CS231:** Tuesday, September 24 2:00 PM - 5:00 PM
+- **FacAd Meet:** Friday, 27 September 2024
 
 ## Timetable
 
