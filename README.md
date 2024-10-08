@@ -4,7 +4,10 @@ This is a collection of all the resources for the courses that me and my friends
 
 ## Upcoming Events
 
-- **FacAd Meet:** Friday, 27 September 2024
+- **CS215 Weekly Quiz:** Thursday, 10 October 2024
+- **CS231 Quiz 3:** Friday, 11 October 2024
+- **CS213 Quiz 2:** Wednesday, 23 October 2024
+- **CS405 Quiz 2:** Friday, 25 October 2024
 
 ## Timetable
 
