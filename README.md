@@ -10,6 +10,7 @@ This is a collection of all the resources for the courses that me and my friends
 - **EC101 Quiz 2:** Thursday, 17 October 2024
 - **CS213 Quiz 2:** Wednesday, 23 October 2024
 - **CS405 Quiz 2:** Friday, 25 October 2024
+- **CS228 Quiz 3:** Wednesday, 30 October 2024
 
 ## Timetable
 
