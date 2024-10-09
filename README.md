@@ -8,6 +8,7 @@ This is a collection of all the resources for the courses that me and my friends
 - **CS231 Quiz 3:** Friday, 11 October 2024
 - **CS228 Quiz 2:** Wednesday, 16 October 2024
 - **EC101 Quiz 2:** Thursday, 17 October 2024
+- **CS293 Quiz 2:** Friday, 18 October 2024
 - **CS213 Quiz 2:** Wednesday, 23 October 2024
 - **CS405 Quiz 2:** Friday, 25 October 2024
 - **CS228 Quiz 3:** Wednesday, 30 October 2024
