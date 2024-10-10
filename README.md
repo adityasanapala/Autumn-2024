@@ -45,7 +45,7 @@ This is a collection of all the resources for the courses that me and my friends
   - **Day:** Friday
   - **Time:** 2:00 PM - 5:00 PM
  
-**Instructor:** Prof. Ashutosh Kumar Gupta
+**Instructor:** [Prof. Ashutosh Kumar Gupta](https://www.cse.iitb.ac.in/~akg/)
 
 **Website:** [CS213/293: Data Structure and Algorithms 2024](https://www.cse.iitb.ac.in/~akg/courses/2024-ds/)
 
@@ -60,7 +60,7 @@ This is a collection of all the resources for the courses that me and my friends
   - **Days:** Monday, Tuesday, Thursday
   - **Time:** 10:35 AM - 11:30 AM, 11:35 AM - 12:30 PM, 8:30 AM - 9:25 AM
  
-**Instructor:** Prof. Sunita Sarawagi
+**Instructor:** [Prof. Sunita Sarawagi](https://www.cse.iitb.ac.in/~sunita/)
 
 ### CS228 - Logic for Computer Science
 
@@ -77,7 +77,7 @@ This is a collection of all the resources for the courses that me and my friends
   - **Time:** 9:30 PM - 10:30 PM
   - **Venue:** CC101/CC103/CC105
  
-**Instructor:** Prof. Krishna Shankara Narayanan
+**Instructor:** [Prof. Krishna Shankara Narayanan](https://www.cse.iitb.ac.in/~krishnas/)
 
 ### CS230+231 - Digital Logic Design and Computer Architecture + Lab
 
@@ -94,8 +94,8 @@ This is a collection of all the resources for the courses that me and my friends
   - **Time:** 2:00 PM - 5:00 PM
  
 **Instructor:**
-  - Prof. Sayandeep Saha
-  - Prof. Bhaskaran Raman
+  - [Prof. Sayandeep Saha](https://sites.google.com/view/sayandeepsaha/home)
+  - [Prof. Bhaskaran Raman](https://www.cse.iitb.ac.in/~br/webpage/)
 
 ### EC101 - Economics
 
