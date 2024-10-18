@@ -14,7 +14,7 @@
 - **Midsem:** Midsem Week - Tuesday, 17 September 2024
 - **Quiz 3:** Friday, 11 October 2024
 - **Quiz 4:**
-- **Endsem:** Endsem Week, Date yet to be announced
+- **Endsem:** Endsem Week - Tuesday, 12 November 2024
 
 ## Course Website (if any)
 
