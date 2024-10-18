@@ -10,6 +10,15 @@ This is a collection of all the resources for the courses that me and my friends
 - **CS228 Quiz 3:** Wednesday, 30 October 2024
 - **CS230 Quiz 4:** Friday, 8 November 2024
 
+### Endsems
+
+- **CS230:** Tuesday, 12 November 2024
+- **CS215:** Thursday, 14 November 2024
+- **CS228:** Saturday, 16 November 2024
+- **CS405:** Thursday, 21 November 2024
+- **EC101:** Thursday, 21 November 2024
+- **CS213:** Friday, 22 November 2024
+
 ## Timetable
 
 > [!NOTE]  
