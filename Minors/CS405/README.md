@@ -1,11 +1,9 @@
 # CS405 - Game Theory and Algorithmic Mechanism Design
 
-## Logistics
-
 ## Grading
 
-- **Quizzes:** 2 X 20% = 40%
-- **Midsem + Endsem:** 2 X 30% = 60%
+- **Quizzes:** 40% (2 quizzes)
+- **Midsem + Endsem:** 60%
 
 ## Exam Schedule
 
