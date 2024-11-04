@@ -5,5 +5,6 @@
 ## Exam Schedule
 
 - **Midsem:** Tuesday, 24 September 2024
+- **Endsem:** tuesday, 5 November 2024
 
 ## Course Website (if any)
