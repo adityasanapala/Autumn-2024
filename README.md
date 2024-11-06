@@ -4,11 +4,9 @@ This is a collection of all the resources for the courses that me and my friends
 
 ## Upcoming Events
 
-- **CS228 Quiz 3:** Wednesday, 30 October 2024
-- **CS230 Quiz 4:** Friday, 8 November 2024
-
 ### Endsems
-
+- **CS231:** Tuesday, 5 November 2024
+- **CS293:** Friday, 8 November 2024
 - **CS230:** Tuesday, 12 November 2024
 - **CS215:** Thursday, 14 November 2024
 - **CS228:** Saturday, 16 November 2024
