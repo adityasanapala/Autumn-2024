@@ -11,7 +11,7 @@
 - **Lab Exam 1:** Friday, 23 August 2024
 - **Lab Exam 2:** Midsem Week - Sunday, 15 September 2024
 - **Lab Exam 3:** Friday, 18 October 2024
-- **Lab Exam 4:** Friday, 8 November 2024
+- **Lab Exam 4:** Friday, 8 November 2024 (Rescheduled due to a technical error, Saturday, 9 November 2024)
 - **Project description declared:** Sunday, 13 October 2024
 - **Project submission deadline:** Sunday, 10 November 2024
 
