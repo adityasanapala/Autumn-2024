@@ -6,7 +6,7 @@ This is a collection of all the resources for the courses that me and my friends
 
 ### Endsems
 - **CS231:** Tuesday, 5 November 2024
-- **CS293:** Friday, 8 November 2024
+- **CS293:** Friday, 8 November 2024 (Rescheduled due to technical error, on Saturday, 9 November 2024)
 - **CS230:** Tuesday, 12 November 2024
 - **CS215:** Thursday, 14 November 2024
 - **CS228:** Saturday, 16 November 2024
